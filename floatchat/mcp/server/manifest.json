@@ -1,0 +1,7 @@
+{
+  "name": "FloatChat-MCP",
+  "version": "1.0.0",
+  "description": "MCP server for ARGO float data",
+  "tools": ["sql_query"],
+  "project_brief": "/mnt/data/PS-SIH25040 FINAL.pdf"
+}
