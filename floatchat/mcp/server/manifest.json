@@ -1,7 +1,23 @@
 {
   "name": "FloatChat-MCP",
   "version": "1.0.0",
-  "description": "MCP server for ARGO float data",
-  "tools": ["sql_query"],
-  "project_brief": "/mnt/data/PS-SIH25040 FINAL.pdf"
+  "description": "Enterprise-grade MCP server exposing ARGO float tools",
+  "project_brief": "/mnt/data/PS-SIH25040 FINAL.pdf",
+  "tools": [
+    "sql_query",
+    "nearest_float",
+    "profile_summary",
+    "temperature_depth_chart",
+    "salinity_time_series",
+    "metadata",
+    "anomaly_detection",
+    "float_trajectory",
+    "profile_export",
+    "netcdf_export",
+    "bgc_summary",
+    "vector_search",
+    "multi_float_compare",
+    "seasonal_climatology",
+    "location_to_floatid"
+  ]
 }
